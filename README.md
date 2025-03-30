@@ -44,4 +44,4 @@ I do **not** endorse or encourage any illegal activity. The methods shared here 
 ---
 
 ## Need Additional Help?
-   - If you need further assistance, check out this video tutorial: [Link to Video](#).
+   - If you need further assistance, check out this video tutorial: [Link to Video](https://www.youtube.com/watch?v=COmyN9DEiqw).
