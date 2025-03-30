@@ -2,7 +2,7 @@
 A tutorial on how to bypass the TunnelBear paywall (kind of)
 
 ## Overview
-If you're using the free version of TunnelBear, you're likely familiar with the limited data allocation before being prompted to upgrade. This tutorial will guide you through a method to bypass that limitation—though it's an unofficial workaround.
+If you're using the free version of TunnelBear, you're likely familiar with the limited data allocation before being prompted to upgrade. This tutorial will guide you through a method to bypass that.
 
 ## Disclaimer
 This guide does **not** directly bypass the paywall, but it provides a workaround that may help you avoid it. **Important**: This tutorial is intended solely for educational purposes. By following these steps, you acknowledge that you are fully responsible for your actions and agree to comply with TunnelBear's terms of service, as well as the terms of service of any other platform you use.
