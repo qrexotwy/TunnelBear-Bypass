@@ -27,4 +27,5 @@ We do **not** endorse or encourage any illegal activity. The methods shared here
 4. **Use a Temporary Email (Recommended)**
    - You’ll be asked for an email address. If you prefer to use a temporary email (which is recommended for quick setup), you can get one by visiting: [Temp-Mail](https://temp-mail.org/en/).
 
-(Continue with additional steps...)
+5. After going to [Temp-Mail](https://temp-mail.org/en/) you will see a page that looks somewhat like this
+![image](https://github.com/user-attachments/assets/4ad6374f-0e14-4260-8264-d306ce9cf02c)
