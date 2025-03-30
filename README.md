@@ -15,12 +15,12 @@ We do **not** endorse or encourage any illegal activity. The methods shared here
    - First, you'll need to download TunnelBear. You can do so by visiting their official website: [TunnelBear](https://www.tunnelbear.com/).
 
 2. **Log In or Create an Account**
-   - After downloading TunnelBear, you’ll be prompted to log in or create an account.
+   - After downloading TunnelBear, you’ll be prompted to log in or create an account. Click create an account.
 
    ![image](https://github.com/user-attachments/assets/2e4ea1a8-8889-4bf7-bd58-65699daf4551)
 
 3. **Create an Account**
-   - Click on "Create Account." After this, you’ll see a page similar to the one below:
+   - After clicking on "Create An Account", you’ll see a page similar to the one below:
 
    ![image](https://github.com/user-attachments/assets/8bbca8cd-4f99-4690-b896-c9f44679d675)
 
