@@ -19,3 +19,5 @@ We do not endorse or encourage any illegal activity. The methods shared here are
 4.  Click create account. After that, this page will pop up ↓
 
 ![image](https://github.com/user-attachments/assets/8bbca8cd-4f99-4690-b896-c9f44679d675)
+
+5. Next, you will have to use an email. If you want to get a temporary email for this (which is recommended for how fast this is) then go to this website: https://temp-mail.org/en/
