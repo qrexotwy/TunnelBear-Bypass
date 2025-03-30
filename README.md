@@ -9,7 +9,4 @@ This does not directly bypass the paywall, but it somewhat avoids it through uno
 Use this at your own risk. The methods outlined here are not officially supported by TunnelBear, and there may be unintended consequences. Always respect the terms of service of any website or service you interact with.
 
 # How-To
-So we all know that if you use the free version of TunnelBear you get a limited amount of MB that you can use before you have to upgrade your account.
-That looks like this ↓
-
-![image](https://github.com/user-attachments/assets/b177d8f2-4030-464b-9066-a87b61ce5d5b)
+So first you will need to download TunnelBear. You can download it from here: https://www.tunnelbear.com/
