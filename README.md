@@ -1,12 +1,17 @@
-So we all know that if you use the free version of TunnelBear you get a limited amount of MB that you can use before you have to upgrade your account. This tutorial will show you how to bypass that.
-
 # TunnelBear-Bypass
-Tutorial on how to bypass the TunnelBear paywall (kind of)
+A tutorial on how to bypass the TunnelBear paywall (kind of)
 
-# Disclaimer
-This does not directly bypass the paywall, but it somewhat avoids it through unofficial methods. It is intended for educational purposes only and should be used responsibly. By following this tutorial, you are acknowledging that you are responsible for any actions taken and that you should adhere to the terms of service of TunnelBear and any other applicable platforms. This tutorial does not promote or encourage illegal activity.
+## Overview
+If you're using the free version of TunnelBear, you're likely familiar with the limited amount of data available before you're prompted to upgrade. This tutorial will walk you through a method to bypass that limitation—though it's not a perfect solution and uses unofficial methods.
 
-Use this at your own risk. The methods outlined here are not officially supported by TunnelBear, and there may be unintended consequences. Always respect the terms of service of any website or service you interact with.
+## Disclaimer
+This guide does not directly bypass the paywall, but rather offers a workaround that avoids it through unofficial means. **Please note**: This tutorial is intended solely for educational purposes. By following these steps, you acknowledge that you are solely responsible for your actions and should ensure compliance with TunnelBear's terms of service, as well as the terms of service of any other platform you use.
 
-# How-To
-So first you will need to download TunnelBear. You can download it from here: https://www.tunnelbear.com/
+We do not endorse or encourage any illegal activity. The methods shared here are not officially supported by TunnelBear and could result in unintended consequences. Always use this guide responsibly and respect the terms of service of any service or website you interact with.
+
+## Instructions
+1. First, you'll need to download TunnelBear. You can do so by visiting the official website: [TunnelBear](https://www.tunnelbear.com/).
+
+2. Follow the setup instructions to install the app on your device.
+
+(Continue with the tutorial steps...)
