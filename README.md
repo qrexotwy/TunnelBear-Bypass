@@ -8,5 +8,6 @@ Use this at your own risk. The methods outlined here are not officially supporte
 
 # How-To
 So we all know that if you use the free version of TunnelBear you get a limited amount of MB that you can use before you have to upgrade your account.
+It looks like this
 
 ![image](https://github.com/user-attachments/assets/b177d8f2-4030-464b-9066-a87b61ce5d5b)
