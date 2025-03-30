@@ -1,3 +1,5 @@
+So we all know that if you use the free version of TunnelBear you get a limited amount of MB that you can use before you have to upgrade your account. This tutorial will show you how to bypass that.
+
 # TunnelBear-Bypass
 Tutorial on how to bypass the TunnelBear paywall (kind of)
 
