@@ -49,4 +49,4 @@ I do **not** endorse or encourage any illegal activity. The methods shared here 
 ### - Credits -
    - ChatGPT
    - Gigachat
-   - @qrexotwy
+   - qrexotwy
