@@ -16,4 +16,5 @@ We do not endorse or encourage any illegal activity. The methods shared here are
 ![image](https://github.com/user-attachments/assets/2e4ea1a8-8889-4bf7-bd58-65699daf4551)
 
 
-4.  Click create account
+4.  Click create account. After that, this page will pop up
+![image](https://github.com/user-attachments/assets/8bbca8cd-4f99-4690-b896-c9f44679d675)
