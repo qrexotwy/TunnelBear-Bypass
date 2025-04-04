@@ -43,9 +43,6 @@ I do **not** endorse or encourage any illegal activity. The methods shared here 
 
 ---
 
-## Need Additional Help?
-   - If you need further assistance, check out this video tutorial: [Link to Video](https://www.youtube.com/watch?v=COmyN9DEiqw).
-
 ## Want to see the history of changes?
    - If you want to see the changelog click [here](https://github.com/qrexotwy/TunnelBear-Bypass/blob/main/CHANGELOG.txt)
 
